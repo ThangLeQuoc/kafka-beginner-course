@@ -8,7 +8,7 @@ import org.apache.kafka.common.serialization.StringSerializer;
 
 import java.util.Properties;
 
-public class Main {
+public class ProducerDemo {
 
     public static void main(String[] args) {
         // Create producer properties
